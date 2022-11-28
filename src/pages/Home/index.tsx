@@ -9,7 +9,7 @@ const Home = () => {
             <div className="base-card home-card">
                 <div className="home-content-container">
                     <div>
-                        <h1>Reserve uma sala para as suas reuniões</h1>
+                        <h1>Reserve uma sala</h1>
                         <p>Faça a sua reserva de salas e tenha um espaço adequado para reuniões</p>
                     </div>
                     <div>

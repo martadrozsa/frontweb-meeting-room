@@ -26,3 +26,12 @@
     color: #FFF;
     font-weight: bold;
 }
+
+.nav-link-salas a {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-link-salas-offset {
+    padding-left: 40px;
+}

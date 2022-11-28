@@ -1,0 +1,352 @@
+{
+  "content": [
+    {
+      "id": 3,
+      "name": "Daniela",
+      "capacity": 12,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/sala-daniela.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Beira-Mar",
+      "capacity": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/beira-mar.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Joaquina",
+      "capacity": 8,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/joaquina.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Jurerê",
+      "capacity": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/jurere.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Armação",
+      "capacity": 13,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/armacao.jpeg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Solidão",
+      "capacity": 16,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/solidao.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Campeche",
+      "capacity": 8,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/campeche.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Lagoinha",
+      "capacity": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/lagoinha.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Matadeiro",
+      "capacity": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/matadeiro.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Santinho",
+      "capacity": 6,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/santinho.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": true
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Brava",
+      "capacity": 11,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/brava.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Forte",
+      "capacity": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "/images/forte.jpg",
+      "reservations": [
+        {
+          "date": "segunda-feira (05/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "terça-feira (06/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quarta-feira (07/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "quinta-feira (08/12/2022)",
+          "reserved": false
+        },
+        {
+          "date": "sexta-feira (09/12/2022)",
+          "reserved": false
+        }
+      ]
+    }
+  ]
+}

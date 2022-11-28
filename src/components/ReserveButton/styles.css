@@ -1,0 +1,39 @@
+.btn-reserve-container {
+    display: flex;
+}
+
+.btn-reserve-container button {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.btn-reserve-container h6 {
+    color: #FFF;
+    font-size: 24px;
+    text-transform: uppercase;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*.btn-icon-container {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    width: 50px;*/
+/*    height: 50px;*/
+/*    border-radius: 0 10px 10px 0;*/
+/*    background-color: #33569B;*/
+/*    color: #FFF;*/
+/*}*/
+
+/*@media (min-width: 576px) {*/
+/*    .btn-icon-container {*/
+/*        width: 70px;*/
+/*        height: 70px;*/
+/*    }*/
+
+/*    .btn h6 {*/
+/*        font-size: 18px;*/
+/*    }*/
+/*}*/

@@ -1,5 +1,5 @@
 {
-  "name": "frontweb-meeting-room-scheduling-system-a3",
+  "name": "frontweb-meeting-room",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,12 +11,16 @@
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "@types/react-router-dom": "^5.1.7",
+    "axios": "^1.2.0",
     "bootstrap": "^5.2.3",
     "node-sass": "4.14.1",
     "react": "^18.2.0",
+    "react-content-loader": "^6.2.0",
     "react-dom": "^18.2.0",
+    "react-loading-icons": "^1.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "5.0.1",
+    "react-widgets": "^5.8.4",
     "typescript": "^4.9.3",
     "web-vitals": "^2.1.4"
   },

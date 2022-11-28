@@ -30,7 +30,7 @@ const RoomCard = ({ room} : Props) => {
             <div className="card-bottom-container">
                 <h6>{room.name}</h6>
                 <RoomInfo capacity={room.capacity} />
-                <span className="unavailable">{isUnavailable() ? "unavailable" : "" }</span>
+                <span className="unavailable">{isUnavailable() ? "indisponível" : "" }</span>
             </div>
         </div>
     )

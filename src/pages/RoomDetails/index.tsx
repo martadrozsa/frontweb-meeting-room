@@ -29,7 +29,7 @@ const RoomDetails = () => {
     const location = useLocation();
     const history = useHistory();
 
-    const unavailableLabel = "Unavailable"
+    const unavailableLabel = "Indisponível"
 
     useEffect(() => {
         setIsLoading(true)
@@ -130,7 +130,7 @@ const RoomDetails = () => {
                                 <div className="name-capacity-container">
                                     <h1>{room?.name}</h1>
                                     {room && <RoomInfoDetails capacity={room?.capacity}/>}
-                                    <span className="name-capacity-container-span">{isUnavailable() ? "unavailable" : "" }</span>
+                                    <span className="name-capacity-container-span">{isUnavailable() ? "indisponível" : "" }</span>
                                 </div>
                             </div>
                             <div className="col-xl-6">

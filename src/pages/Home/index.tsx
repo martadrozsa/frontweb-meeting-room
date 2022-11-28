@@ -14,7 +14,7 @@ const Home = () => {
                     </div>
                     <div>
                         <Link to="/rooms">
-                            <ButtonIcon text="INICIE AGORA A SUA BUSCA" />
+                            <ButtonIcon text="RESERVAR" />
                         </Link>
                     </div>
                 </div>

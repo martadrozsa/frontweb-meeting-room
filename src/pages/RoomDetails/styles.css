@@ -1,9 +1,9 @@
-.product-details-container {
+.details-room-container {
     padding: 10px;
     font-size: 24px;
 }
 
-.product-details-card {
+.details-room-card {
     padding: 10px;
 }
 
@@ -96,22 +96,22 @@
 }
 
 @media (min-width: 576px) {
-    .product-details-container {
+    .details-room-container {
         padding: 20px;
         font-size: 32px;
     }
 
-    .product-details-card {
+    .details-room-card {
         padding: 20px;
     }
 }
 
 @media (min-width: 992px) {
-    .product-details-container {
+    .details-room-container {
         padding: 40px;
     }
 
-    .product-details-card {
+    .details-room-card {
         padding: 40px;
     }
 

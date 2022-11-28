@@ -106,8 +106,8 @@ const RoomDetails = () => {
     }
 
     return (
-        <div className="product-details-container">
-            <div className=" base-card product-details-card">
+        <div className="details-room-container">
+            <div className=" base-card details-room-card">
                 <Link to="/rooms">
                     <div className="goback-container">
                         <ArrowIcon/>
